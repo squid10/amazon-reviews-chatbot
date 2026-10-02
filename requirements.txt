@@ -1,0 +1,19 @@
+# módulo 1: EDA
+pandas
+numpy
+matplotlib
+tqdm
+huggingface_hub
+
+# módulo 2: NLP e modelagem
+sentence-transformers
+scikit-learn
+xgboost
+joblib
+pyarrow          # o pandas usa para ler e gravar o meta.parquet
+
+# módulo 3: chatbot
+langchain
+langchain-groq
+streamlit
+python-dotenv

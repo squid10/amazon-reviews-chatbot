@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+
+# Segredos
+.env
+.streamlit/secrets.toml
+
+# Dados e modelos (podem ser grandes)
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+
+# Arquivos automáticos
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
