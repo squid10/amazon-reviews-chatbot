@@ -11,3 +11,9 @@ scikit-learn
 xgboost
 joblib
 pyarrow          # o pandas usa para ler e gravar o meta.parquet
+
+# módulo 3: chatbot
+langchain
+langchain-groq
+streamlit
+python-dotenv
