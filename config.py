@@ -31,3 +31,5 @@ TEST_SIZE = 0.2
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 GROQ_MODEL = "openai/gpt-oss-120b"
 RAG_TOP_K = 5
+
+GROQ_MODEL = "openai/gpt-oss-120b"
